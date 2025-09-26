@@ -28,3 +28,16 @@ This project demonstrates an end-to-end data analytics workflow for Uber trip da
 **5. Deployment & Automation:** Published reports in Power BI Service with scheduled refreshes to maintain up-to-date insights.
 
 **6. Documentation & Collaboration:** Shared project files, datasets, DAX measures, screenshots, and workflow on GitHub for reproducibility and learning.
+
+
+**Overall Insights:**
+
+1. Majority of accidents are slight, but serious and fatal accidents still contribute significantly to casualties.
+
+2. Peak accidents occur at 5 PM, especially on Fridays.
+
+3. Cars are the most involved vehicle type (~138K cases).
+
+4. Urban areas and daylight conditions account for the majority of accidents.
+
+5. Speed limits of 30 mph and 60 mph show the highest accident frequency.
